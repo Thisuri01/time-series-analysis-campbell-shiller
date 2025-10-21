@@ -40,7 +40,6 @@ Estimating the behavior and interrelations of stock returns and dividends is cru
 - Supplement Campbell-Shiller data with macroeconomic indicators to enrich model explanatory power.
 - Expand analysis to higher-frequency data for finer volatility assessment.
 - Deploy model insights to develop enhanced forecasting and risk management tools.
-- Publish code and processed data in this repository for reproducibility and collaborative extension.
 - Explore machine learning integrations for predictive improvements.
 
 
